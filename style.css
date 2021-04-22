@@ -8,6 +8,11 @@ font-size: 1em;
 text-align: center;
 }
 
+.prof-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+  
 .prof-wrapper p {
   text-align: left;
   font-size: 12px;
