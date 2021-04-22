@@ -6,11 +6,11 @@ width: 100%;
 margin: 0px;
 font-size: 1em;
 text-align: center;
+background-color: #404040;
 }
 
 .prof-wrapper {
-  display: flex;
-  flex-flow: column;
+  display: block;
 }
   
 .prof-wrapper p {
