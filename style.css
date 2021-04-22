@@ -97,6 +97,7 @@ header li {
 /* main */
 .prof-wrapper {
   display: block;
+  width: 70%;
 }
   
 .prof-wrapper p {
