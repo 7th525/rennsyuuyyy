@@ -131,15 +131,15 @@ header li {
 }
 
 .movies-card video {
+  display: block;
+  margin-top: 20px;
   width: 100%;
   height: 160px;
   object-fit: cover;
-  line-height: 100%;
 }
 
 .movies h3 {
   padding-top: 7px;
-  padding-bottom: 20px;
   font-size: 14px;
   font-weight: normal;
 }
