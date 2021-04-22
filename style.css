@@ -116,7 +116,7 @@ header li {
 .movies-card-wrapper {
   display: block;
   justify-content: space-between;
-  margin: 0 auto;
+  text-align: center;
 }
 
 .movies-card-wrapper:last-child {
