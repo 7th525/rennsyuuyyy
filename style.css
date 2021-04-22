@@ -100,7 +100,7 @@ header li {
 .prof-wrapper p {
   text-align: left;
   font-size: 12px;
-  
+  margin-bottom: 15px;
 }
 
 .prof-wrapper span {
@@ -116,6 +116,7 @@ header li {
 .movies-card-wrapper {
   display: block;
   justify-content: space-between;
+  margin: 0 auto;
 }
 
 .movies-card-wrapper:last-child {
