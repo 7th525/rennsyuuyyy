@@ -133,6 +133,7 @@ header li {
   width: 100%;
   height: 160px;
   object-fit: cover;
+  padding-top: 15px; 
 }
 
 .movies h3 {
